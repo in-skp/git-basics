@@ -12,7 +12,7 @@
 12. commit changes using git add . and git commit -m "comment"
 13. you can check commit log using git log
 14. add remote repository using git remote ssh url 
-15. you can check remote repository using git remote -vs
+15. you can check remote repository using git remote -v
 16. push local repository using git push -u remote origin master
 17. project will be pushed into github
 18. add css folder and add style.css file
